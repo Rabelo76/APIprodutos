@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Ruffles",
+      "price": "R$9,59",
+      "image": "<img src='img/img.jpg' width='100px'>"
+    },
+    {
+      "name": "Fandangos",
+      "price": "R$3,49",
+      "image": "<img src='img/img1.jpg' width='100px'>"
+    },
+    {
+      "name": "Cheetos",
+      "price": "R$0,95",
+      "image": "<img src='img/img2.jpg' width='100px'>"
+    },
+    {
+      "name": "Baconzitos",
+      "price": "R$5,40",
+      "image": "<img src='img/img3.jpg' width='100px'>"
+    },
+    {
+      "name": "Cebolitos",
+      "price": "R$3,99",
+      "image": "<img src='img/img4.jpg' width='100px'>"
+    }
+  ]
+  
